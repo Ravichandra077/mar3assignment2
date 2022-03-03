@@ -1,0 +1,5 @@
+#merging two tuples
+tuple1=(10,20,30,40,50)
+tuple2=(60,70,80,90,100)
+tuple3=tuple1+tuple2
+print(tuple3)
